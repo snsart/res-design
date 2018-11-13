@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"start 实例 10000":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":62},
+	"sourceSize": {"w":106,"h":62}
+},
+"update 实例 10000":
+{
+	"frame": {"x":0,"y":62,"w":107,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":62},
+	"sourceSize": {"w":107,"h":62}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image": "btns.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}
