@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"replayBtn 实例 10000":
+{
+	"frame": {"x":0,"y":0,"w":100,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":38},
+	"sourceSize": {"w":100,"h":38}
+},
+"title 实例 10000":
+{
+	"frame": {"x":0,"y":38,"w":185,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":34},
+	"sourceSize": {"w":185,"h":34}
+},
+"tx1 实例 10000":
+{
+	"frame": {"x":185,"y":38,"w":23,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":25},
+	"sourceSize": {"w":23,"h":25}
+},
+"tx2 实例 10000":
+{
+	"frame": {"x":208,"y":38,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25}
+},
+"tx3 实例 10000":
+{
+	"frame": {"x":233,"y":38,"w":18,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":25},
+	"sourceSize": {"w":18,"h":25}
+},
+"tx4 实例 10000":
+{
+	"frame": {"x":0,"y":72,"w":20,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":25},
+	"sourceSize": {"w":20,"h":25}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image": "title.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

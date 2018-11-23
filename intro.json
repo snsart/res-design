@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"<Group>_17 实例 10000":
+{
+	"frame": {"x":0,"y":0,"w":63,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":64},
+	"sourceSize": {"w":63,"h":64}
+},
+"intro 实例 10000":
+{
+	"frame": {"x":63,"y":0,"w":1038,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1038,"h":400},
+	"sourceSize": {"w":1038,"h":400}
+},
+"introBtn 实例 10000":
+{
+	"frame": {"x":1101,"y":0,"w":123,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":38},
+	"sourceSize": {"w":123,"h":38}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image": "intro.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
